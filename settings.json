@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SSLOL",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SSLOL",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Ori_omer_dani.aternos.me",
+    "port": 56069,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day": true,
     "place-night": false
   },
   "discord": {
